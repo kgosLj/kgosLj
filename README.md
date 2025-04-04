@@ -6,15 +6,25 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
+  
+
 <div align="center" >
   <!-- just img 图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 </div>
 
-<!-- 技术栈波浪线 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
 </div>
+
+<div align="center"> <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgosLj&hide_border=true&layout=compact&langs_count=6&locale=cn" />  </div>
+
+## HI Here! 👋
+✨ ✨ ✨
+👋 I'm kgosLj.
+
+🔭 I'm a Cloud Nativa Engineer!
+
+🌱 I’m currently learning dgut.
+
 
 ## 🚀 **技术武器库**
 
@@ -46,15 +56,3 @@
   <img src="https://img.shields.io/badge/-Tekton-FF6D00?style=flat-square&logo=tekton" />
 </p>
 
-    </td>
-    <td>
-
-### 🎯 **核心领域**
-```mermaid
-pie 
-    title 技术聚焦
-    "容器编排" : 35
-    "服务网格" : 25
-    "监控体系" : 20
-    "CI/CD流水线" : 15
-    "云安全" : 5
