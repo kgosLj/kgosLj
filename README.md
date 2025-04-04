@@ -15,16 +15,21 @@
       </div>
     </td>
     
-    <!-- 右侧雷达图 -->
+    <!-- 右侧数据看板 -->
     <td>
-      ```mermaid
-      radarChart
-          title 技术辐射图
-          axis "容器" "网络" "监控" "自动化" "安全"
-          "Kubernetes" [9, 7, 6, 8, 4]
-          "Istio" [6, 9, 5, 7, 8]
-          "Prometheus" [7, 5, 9, 6, 5]
-      ```
+      <div align="center">
+        <!-- Stars 统计 -->
+        <img src="https://img.shields.io/github/stars/kgosLj?color=7B42BC&label=GitHub%20Stars&logo=starship&style=for-the-badge">
+        
+        <!-- 提交日历 -->
+        <img src="https://ghchart.rshah.org/3B82F6/kgosLj" alt="kgosLj's Contribution Chart" />
+        
+        <!-- 核心技能 -->
+        <h4>🛸 核心驾驶舱</h4>
+        <code><img height="30" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
+        <code><img height="30" src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg"></code>
+        <code><img height="30" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"></code>
+      </div>
     </td>
   </tr>
 </table>
