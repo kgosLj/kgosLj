@@ -6,7 +6,28 @@
 
 </div>
 
-<div align="left"> <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgosLj&hide_border=true&layout=compact&langs_count=6&locale=cn" />  </div>
+<table>
+  <tr>
+    <!-- 左侧语言统计 -->
+    <td width="55%">
+      <div align="left"> 
+        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgosLj&hide_border=true&layout=compact&langs_count=6&locale=cn" />  
+      </div>
+    </td>
+    
+    <!-- 右侧雷达图 -->
+    <td>
+      ```mermaid
+      radarChart
+          title 技术辐射图
+          axis "容器" "网络" "监控" "自动化" "安全"
+          "Kubernetes" [9, 7, 6, 8, 4]
+          "Istio" [6, 9, 5, 7, 8]
+          "Prometheus" [7, 5, 9, 6, 5]
+      ```
+    </td>
+  </tr>
+</table>
 
 ## HI Here! 👋
 ✨ ✨ ✨
