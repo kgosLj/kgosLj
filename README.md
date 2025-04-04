@@ -11,9 +11,9 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
-<p>&emsp;&emsp;Hello，I am kgosLj.</p>
-<p>&emsp;&emsp;一名热爱计算机科学和IT互联网事业的Cloud Native Engineer!</p>
-<p>&emsp;&emsp;I am currently learning DGUT. </p>
+<p>&emsp;&emsp;Hello，I'm kgosLj.</p>
+<p>&emsp;&emsp;A Cloud Native Engineer who loves computer science and IT Internet!</p>
+<p>&emsp;&emsp;I'm currently learning DGUT. </p>
 
 
 
