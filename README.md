@@ -1,5 +1,7 @@
 <div align="center">
 
+  <!-- 展示代码提交的情况 -->
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgosLj&show_icons=true&theme=radical)
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
   
