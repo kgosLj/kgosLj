@@ -3,11 +3,7 @@
 <!-- 动态标题 -->
 <h1 align="center">☁️ 𝓒𝓵𝓸𝓾𝓭 𝓝𝓪𝓽𝓲𝓿𝓮 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻 | 𝓚𝓰𝓸𝓼𝓛𝓳 ☁️</h1>
 
-<!-- ########################################## 分割 ########################################## -->
-<div align="center" >
-  <!-- just img 图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
-</div>
+
 
 </div>
 
@@ -21,6 +17,12 @@
 
 🌱 I’m currently learning dgut.
 
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<!-- ########################################## 分割 ########################################## -->
+<div align="center" >
+  <!-- just img 图片 -->
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
+</div>
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 ## 🚀 **技术武器库**
