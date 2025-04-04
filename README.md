@@ -1,10 +1,8 @@
 <div align="center">
-  
 <!-- 动态标题 -->
 <h1 align="center">☁️ 𝓒𝓵𝓸𝓾𝓭 𝓝𝓪𝓽𝓲𝓿𝓮 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻 | 𝓚𝓰𝓸𝓼𝓛𝓳 ☁️</h1>
-
-
 </div>
+
 
 <table>
   <tr>
