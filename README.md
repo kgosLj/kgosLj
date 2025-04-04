@@ -3,35 +3,7 @@
 <h1 align="center">☁️ 𝓒𝓵𝓸𝓾𝓭 𝓝𝓪𝓽𝓲𝓿𝓮 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻 | 𝓚𝓰𝓸𝓼𝓛𝓳 ☁️</h1>
 </div>
 
-
-<table>
-  <tr>
-    <!-- 左侧语言统计 -->
-    <td width="55%">
-      <div align="left"> 
-        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgosLj&hide_border=true&layout=compact&langs_count=6&locale=cn" />  
-      </div>
-    </td>
-    
-    <!-- 右侧数据看板 -->
-    <td>
-      <div align="center">
-        <!-- Stars 统计 -->
-        <img src="https://img.shields.io/github/stars/kgosLj?color=7B42BC&label=GitHub%20Stars&logo=starship&style=for-the-badge">
-        
-        <!-- 提交日历 -->
-        <img src="https://ghchart.rshah.org/3B82F6/kgosLj" alt="kgosLj's Contribution Chart" />
-        
-        <!-- 核心技能 -->
-        <h4>🛸 核心驾驶舱</h4>
-        <code><img height="30" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
-        <code><img height="30" src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg"></code>
-        <code><img height="30" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"></code>
-      </div>
-    </td>
-  </tr>
-</table>
-
+<!-- 自我介绍 -->
 ## HI Here! 👋
 ✨ ✨ ✨
 👋 I'm kgosLj.
