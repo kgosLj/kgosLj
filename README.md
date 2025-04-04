@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- 动态标题 -->
-<h1 align="center">☁️ 𝓒𝓵𝓸𝓾𝓭 �𝓮𝓿𝓸𝓽𝓮𝓮 | 𝓚𝓰𝓸𝓼𝓛𝓳 ☁️</h1>
+<h1 align="center">☁️ 𝓒𝓵𝓸𝓾𝓭 𝓝𝓪𝓽𝓲𝓿𝓮 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻 | 𝓚𝓰𝓸𝓼𝓛𝓳 ☁️</h1>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
@@ -10,15 +10,6 @@
   <!-- just img 图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 </div>
-
-<!-- 数据统计 & 动态图 -->
-<table>
-  <tr>
-    <td width="60%">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=kgosLj&show_icons=true&theme=dark&hide_border=true" />
-    </td>
-  </tr>
-</table>
 
 <!-- 技术栈波浪线 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
