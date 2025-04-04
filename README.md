@@ -4,10 +4,9 @@
 <h1 align="center">☁️ 𝓒𝓵𝓸𝓾𝓭 𝓝𝓪𝓽𝓲𝓿𝓮 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻 | 𝓚𝓰𝓸𝓼𝓛𝓳 ☁️</h1>
 
 
-
 </div>
 
-<div align="center"> <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgosLj&hide_border=true&layout=compact&langs_count=6&locale=cn" />  </div>
+<div align="left"> <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgosLj&hide_border=true&layout=compact&langs_count=6&locale=cn" />  </div>
 
 ## HI Here! 👋
 ✨ ✨ ✨
