@@ -8,7 +8,7 @@
 ✨ ✨ ✨
 👋 I'm kgosLj.
 
-🔭 I'm a Cloud Nativa Engineer!
+🔭 I'm a Cloud Native Engineer!
 
 🌱 I’m currently learning dgut.
 
